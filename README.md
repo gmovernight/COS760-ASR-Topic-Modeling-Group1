@@ -131,26 +131,24 @@ COS760-ASR-Topic-Modeling-Group1/
 
 1. **Data Preparation:**
    ```bash
-   python src/data_processing/prepare_dataset.py
+   python src/data_processing/audio_segmentation.py
    ```
 
 2. **ASR Transcription:**
    ```bash
-   python src/asr/whisper_transcriber.py
-   python src/asr/lelapa_transcriber.py
-   python src/asr/wav2vec_transcriber.py
+   python src/asr/whisper_transcription.py
+   python notebooks/lelapa1.ipynb
+   python src/asr/wav2vec_asr.py
    ```
 
 3. **Topic Modeling:**
    ```bash
-   python src/topic_modeling/bertopic_analyzer.py
-   python src/topic_modeling/lda_analyzer.py
+   python notebooks/Final_Topic_Modeling.ipynb
    ```
 
 4. **Evaluation & Visualization:**
    ```bash
-   python src/evaluation/error_analysis.py
-   python src/visualization/topic_visualizer.py
+   python notebooks/Final_Topic_Modeling.ipynb
    ```
 
 ### Expected Challenges
@@ -180,4 +178,3 @@ Key libraries include:
 - `numpy`
 - `pandas`
 - `matplotlib`
-- `
