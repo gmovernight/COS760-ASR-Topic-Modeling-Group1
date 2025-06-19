@@ -129,6 +129,10 @@ COS760-ASR-Topic-Modeling-Group1/
 
 ### Usage
 
+**First ensure to upload Setswana audio files in the data/raw directory.**
+
+
+
 1. **Data Preparation:**
    ```bash
    python src/data_processing/audio_segmentation.py
