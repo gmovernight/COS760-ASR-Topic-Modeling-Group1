@@ -5,8 +5,8 @@
 **A Study on How ASR Transcription Quality Affects Topic Coherence in Low-Resource African Languages**
 
 ### Team Members (Group 1)
-- **Leo** 
-- **Tina** 
+- **Unarine Netshifhefhe** 
+- **Tinashe Austin** 
 - **Ruan Carlinsky**
 
 ### Project Overview
