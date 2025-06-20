@@ -10,7 +10,7 @@
 - **Ruan Carlinsky**
 
 ### Github Repository Link:
-[View the project on GitHub](https://github.com/gmovernight/COS760-ASR-Topic-Modeling-Group1)
+[https://github.com/gmovernight/COS760-ASR-Topic-Modeling-Group1](https://github.com/gmovernight/COS760-ASR-Topic-Modeling-Group1)
 
 ### Project Overview
 
@@ -42,11 +42,7 @@ Most ASR models perform poorly on African languages like Setswana, significantly
 
 **Primary Dataset:**
 - Setswana COVID-19 podcasts from DSFSI Lab (University of Pretoria)
-- [Setswana Podcast Link](https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl)
-
-**Supplementary Datasets:**
-- NCHLT Setswana Speech Corpus (56 hours, 3.7 GB, CC BY 3.0)
-- OpenSLR SLR32 (729 MB, CC BY-SA 4.0)
+- [https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl](https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl)
 
 ### Project Structure
 
