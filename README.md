@@ -42,7 +42,7 @@ Most ASR models perform poorly on African languages like Setswana, significantly
 
 **Primary Dataset:**
 - Setswana COVID-19 podcasts from DSFSI Lab (University of Pretoria)
-- Setswana COVID-19 Dataset: [https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl](https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl)
+- Setswana COVID-19 Podcast Dataset: [https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl](https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl)
 
 ### Project Structure
 
