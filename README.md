@@ -42,7 +42,7 @@ Most ASR models perform poorly on African languages like Setswana, significantly
 
 **Primary Dataset:**
 - Setswana COVID-19 podcasts from DSFSI Lab (University of Pretoria)
-- [https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl](https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl)
+- Setswana COVID-19 Dataset: [https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl](https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl)
 
 ### Project Structure
 
@@ -70,14 +70,11 @@ COS760-ASR-Topic-Modeling-Group1/
 │   └── visualizations/         # Generated plots and charts
 │
 ├── notebooks/                  # Jupyter notebooks for exploration
-│   ├── 1_data_exploration.ipynb
-│   ├── 2_asr_comparison.ipynb
-│   └── 3_topic_analysis.ipynb
+│   ├── Final_Topic_Modelling.ipynb
+│   ├── lelapa1.ipynb
 │
 ├── README.md
 ├── requirements.txt
-├── config.json
-└── .gitignore
 ```
 
 ### Key Components
