@@ -9,6 +9,9 @@
 - **Tinashe Austin** 
 - **Ruan Carlinsky**
 
+### Github Repository Link:
+[View the project on GitHub](https://github.com/gmovernight/COS760-ASR-Topic-Modeling-Group1)
+
 ### Project Overview
 
 This research investigates which combination of ASR model and topic modeling technique yields the most coherent topics when processing Setswana podcast transcripts. The study systematically evaluates how different ASR systems paired with topic modeling methods affect the coherence of topics extracted from African language speech data.
@@ -39,6 +42,7 @@ Most ASR models perform poorly on African languages like Setswana, significantly
 
 **Primary Dataset:**
 - Setswana COVID-19 podcasts from DSFSI Lab (University of Pretoria)
+- [Setswana Podcast Link](https://drive.google.com/drive/u/1/folders/1WjpjizukHBCWzis9Abn8tS0I6vCCpvIl)
 
 **Supplementary Datasets:**
 - NCHLT Setswana Speech Corpus (56 hours, 3.7 GB, CC BY 3.0)
